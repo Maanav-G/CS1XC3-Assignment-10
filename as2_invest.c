@@ -1,3 +1,5 @@
+// Maanav Garg
+
 #include <stdio.h>
 
 int main(void)
